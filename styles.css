@@ -1,16 +1,25 @@
 /*  your css code here. If applicable */
 .summary{
-	border-top-color:#5ea4f3;
+	border-top:2px solid  rgb(94, 164, 243);
 	background-color:#f7fbff;
 	padding-left:0px;
-	height:500px;
-	padding:2px;
+/* 	height:500px; */
+/* 	padding:2px; */
 }
 #container-2{
-	height:600px;
+height:600px;
 /* 	border:2px solid red; */
 }
 .container-fluid{
- 	height:900px; 
-	border:2px solid red;
+/*  	height:900px;  */
+/* 	border:2px solid red; */
+}
+.product-container{
+ 	width:200px; 
+/* 	border:2px solid red; */
+	margin:0px;
+	padding:0px;
+	margin-right:2px;
+	flex-wrap:4;
+/* 	height:500px;  */
 }
