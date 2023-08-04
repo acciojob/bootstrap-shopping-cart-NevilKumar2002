@@ -3,5 +3,14 @@
 	border-top-color:#5ea4f3;
 	background-color:#f7fbff;
 	padding-left:0px;
-	
+	height:500px;
+	padding:2px;
+}
+#container-2{
+	height:600px;
+/* 	border:2px solid red; */
+}
+.container-fluid{
+ 	height:900px; 
+	border:2px solid red;
 }
